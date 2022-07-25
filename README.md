@@ -12,15 +12,15 @@ The app allows users to view their workout exercises that are pending, and/or co
 
 ## Project setup.
 
-# Run, in your preferred code editor 
+Run, in your preferred code editor 
 
-### npx create-react-app my-app
+npx create-react-app my-app
 
-### cd my-app
+cd my-app
 
-### npm start
+npm start
 
-# Deploy project to github pages.
+Deploy project to github pages.
 
 ## Github Link.
 
